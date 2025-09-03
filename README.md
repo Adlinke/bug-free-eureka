@@ -1,4 +1,4 @@
-# bug-free-eureka
+# bug-free-AdLinke
 # Social Media Marketing Business Strategies
 ## Introduction
 Welcome to our GitHub repository! This repository serves as a resource hub for social media marketing strategies and best practices. Our goal is to help businesses effectively navigate the ever-changing landscape of social media and maximize their online presence.
