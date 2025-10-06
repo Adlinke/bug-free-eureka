@@ -8,7 +8,6 @@ Welcome to our GitHub repository! This repository serves as a resource hub for s
 3. [Social Media Channels](#social-media-channels)
 4. [Content Creation](#content-creation)
 5. [Engagement Tactics] (#engagement-tactics)
-6. [Advertising Campaigns] (#advertising-campaigns)
 7. [Analytics and Measurement](#analytics-and-measurement)
 8. [Contributing] (#contributing)
 ## About Us
